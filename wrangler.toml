@@ -1,0 +1,7 @@
+name = "ops-hq-dashboard-2026"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "."
+
+[vars]
+TASKS_DS_ID = "2fced264-4bae-8177-af73-000b30469836"
+GRANTS_DS_ID = "2fced264-4bae-8123-93ac-000b4981a5e4"
