@@ -59,3 +59,4 @@ wrangler pages deploy . --project-name=ops-hq-dashboard-2026
 - [ ] Add new tasks from dashboard
 - [ ] Daily journal integration
 - [ ] Mobile app-like PWA
+# Ops HQ Dashboard
